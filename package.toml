@@ -1,0 +1,6 @@
+[package]
+version = "0.1.0"
+name = { en = "Online man pages", zh = "在线 man 手册" }
+summary = { en = "Search and read Linux man pages online, in other languages too, even for software not installed here", zh = "在线搜、读 Linux man 手册，能看中文等别的语言版，本机没装的软件也查得到" }
+author = "SHORiN-KiWATA"
+icon = "terminal"
